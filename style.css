@@ -470,7 +470,6 @@ main { overflow-x: hidden; }
   width: 560px;
   height: 400px;
   position: relative;
-  
 }
 :is(.hero-social-list, .scroll-down) { display: none; }
 
