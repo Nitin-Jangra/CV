@@ -15,20 +15,7 @@
   --black: hsl(0, 0%, 0%);
   --white: hsl(0, 0%, 100%);
 
-/* input type submit */
-input[type="submit"]
-{
-  display: block;
-  background-color: #e38445;
-  color: rgb(37, 36, 36, 0, 0);
-  text-transform: capitalize;
-  padding: 15px;
-  font-weight: 700;
-  font-size: 16px;
-  border-radius: 10px;
-}
- 
-/*submit end*/
+
   
   /**
    * typography
@@ -105,7 +92,20 @@ body.light_theme {
 }
 
 
-
+/* input type submit */
+input[type="submit"]
+{
+  display: block;
+  background-color: #e38445;
+  color: rgb(37, 36, 36, 0, 0);
+  text-transform: capitalize;
+  padding: 15px;
+  font-weight: 700;
+  font-size: 16px;
+  border-radius: 10px;
+}
+ 
+/*submit end*/
 
 
 /*-----------------------------------*\
