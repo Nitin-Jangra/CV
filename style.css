@@ -59,14 +59,14 @@
 /* input type submit */
 input[type="submit"]
 {
-  display: block;
-  background-color: #e38445;
-  color: rgb(37, 36, 36, 0, 0);
-  text-transform: capitalize;
-  padding: 15px;
-  font-weight: 700;
-  font-size: 16px;
-  border-radius: 10px;
+  display: block !important;
+  background-color: #e38445 !important;
+  color: rgb(37, 36, 36, 0, 0) !important;
+  text-transform: capitalize !important;
+  padding: 15px !important;
+  font-weight: 700 !important;
+  font-size: 16px !important;
+  border-radius: 10px !important;
 }
 
 /*-----------------------------------*\
